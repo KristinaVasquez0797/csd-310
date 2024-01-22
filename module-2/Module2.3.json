@@ -1,0 +1,34 @@
+{
+    "First_name": "Don",
+    "Last_name": "Henley",
+    "Date_of_birth": [
+        {
+            "DOB": "07/22/1947"
+        }
+    ]
+    "Roles": [
+        {
+            "Role": "Vocals",
+        },
+        {
+            "Role": "Drums",
+        },
+        {
+            "Role": "Guitar",
+        }
+    ]
+    "Dependents":[
+        {
+            "Dependent":"Sharon",
+        },
+        {
+            "Dependent":"Annabel",
+        },
+        {
+            "Dependent":"Julia",
+        },
+        {
+            "Dependent":"Will",
+        }
+    ]
+}
