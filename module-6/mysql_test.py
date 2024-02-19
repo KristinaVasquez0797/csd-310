@@ -1,3 +1,8 @@
+#User: Kristina Vasquez
+#Description: This is the same code that the professor used in module 6. This is not my original code, I am just using it for testing purposes. 
+#This is owned by Bellevue univeristy not me.
+#Citations: https://cyberactive.bellevue.edu/ultra/courses/_524041_1/cl/outline
+
 import mysql.connector
 from mysql.connector import errorcode
 
